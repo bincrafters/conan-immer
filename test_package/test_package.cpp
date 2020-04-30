@@ -1,6 +1,6 @@
-// #include <cpprest/json.h>
+#include <immer/vector.hpp>
 
 int main()
 {
-    // const auto parsed_value = web::json::value::parse(U("-22"));
+    immer::vector<int>{};
 }

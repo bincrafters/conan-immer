@@ -1,4 +1,13 @@
 sources:
-  "1.0.0":
-    url: "https://github.com/libauthor/libname"
-    sha256: "98f6f57aab0a424469619ed3047728f0d3901ce8f0dea919c11e7966d807e870"
+  "0.5.0":
+    url: "https://github.com/arximboldi/immer/archive/v0.5.0.tar.gz"
+    sha256: "37df55eaa7690865c588512715ac6adfbf94f13fb521d83924b5f38a264bfc34"
+  "0.6.0":
+    url: "https://github.com/arximboldi/immer/archive/v0.6.0.tar.gz"
+    sha256: "89d653ae744a215a020ecd998d97f204a8695e7fadfee8ca9d46326cd4fd2f94"
+  "0.6.1":
+    url: "https://github.com/arximboldi/immer/archive/v0.6.1.tar.gz"
+    sha256: "b847cd98fbb10eb756616630489618602f9301e0cbed8e6e8b24590c688ab6ce"
+  "0.6.2":
+    url: "https://github.com/arximboldi/immer/archive/v0.6.2.tar.gz"
+    sha256: "c3bb8847034437dee64adacb04e1e0163ae640b596c582eb4c0aa1d7c6447cd7"
